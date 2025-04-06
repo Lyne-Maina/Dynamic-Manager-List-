@@ -1,1 +1,2 @@
-This work included using react to create a user inrtface
+This work includes using react to create a user inrtface.
+
